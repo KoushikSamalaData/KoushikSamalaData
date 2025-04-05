@@ -14,7 +14,7 @@
 - Web applications that make an impact
 - Open-source tools in analytics or frontend/backend development
 - 📫 How to reach me
-- - 📧 Email: [koushiksamala@gmail.com]
+- 📧 Email: [koushiksamala@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/koushiksamala]
 - 🧠 Portfolio: _Coming soon!_
 - 😄 Pronouns:
