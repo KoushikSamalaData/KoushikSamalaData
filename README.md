@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koushik Samala 🎯Data Analyst | Web Developer | Machine Learning
+- 👋 Hi, I’m @Koushik Samala 🎯Data Analyst | Data Science | Machine Learning
 - 👀 I’m interested 💻 I'm passionate about turning data into actionable insights and building web experiences that are clean, responsive, and user-friendly.
 - 📊 Currently diving deeper into Data Analytics, Machine Learning, and Full Stack Web Development.📍 Based in India, working on real-world projects that solve real-world problems. 🌱 I’m currently learning Python for Data Science & Web DevelopmentPower BI & Tableau for Data Visualization SQL & MongoDB for Database Management React.js & Node.js for full-stack development Data-driven projects & dashboards Web applications that make an impact Open-source tools in analytics or frontend/backend development.
 - 🧠 Portfolio: _Coming soon!_
